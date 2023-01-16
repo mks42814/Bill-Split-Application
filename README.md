@@ -3,6 +3,6 @@ This repository contains all the needful files for my Bill Splitting Application
 
 Live Server : https://mks42814.github.io/Bill-Split-Application/
 
-!-- ======================================  SCREENSHOTS  ====================================== --!
+!-- ===============================  SCREENSHOTS  =============================== --!
 
 
